@@ -1,0 +1,5 @@
+[requires]
+Proj/4.9.3@studiofuga/testing
+
+[generators]
+cmake
